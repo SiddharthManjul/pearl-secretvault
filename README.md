@@ -1,3 +1,5 @@
+<h1>Note: If you want to use this template, please head to https://github.com/Webentia-Inc/pearl-nillion. This repo is for development stage only.</h1>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
